@@ -1,0 +1,3 @@
+https://games.gdevelop-app.com/game-0d00ec51-c828-459c-ad8b-7ed70f7f04fc/index.html
+
+Note: Explosion SFX only work in the Windows (.exe) build.
