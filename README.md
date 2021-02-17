@@ -13,6 +13,12 @@ Project root/Packaged/
 A link to a HTML build of the game is at:
 Project root/Packaged/HTML build.txt
 
+
+* Use **left and right arrows to strafe**
+
+* Use **down arrow to drift**
+
+
 ## Development
 ### Overview
 Drifter was developed for an assignment in one of my game design unit. I was given approximately 1 week to design and build the game from start to finish. 
